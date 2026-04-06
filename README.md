@@ -1,4 +1,4 @@
-Ecco il tuo **README.md** sistemato con una formattazione più pulita, professionale e pronta per essere pubblicata su GitHub o allegata al progetto. Ho evidenziato i punti critici (come il PIN e i secondi di sblocco) per renderli immediatamente leggibili.
+
 
 ---
 
