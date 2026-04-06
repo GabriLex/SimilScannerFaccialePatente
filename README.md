@@ -8,7 +8,7 @@ L'interfaccia grafica e le soglie di errore sono ricostruzioni a scopo di test. 
 
 **Simil Sistema Anti-Plagio usato per Esami Patente**
 
-Software di monitoraggio in tempo reale che utilizza una basilare intelligenza artificiale per simulare il software usato nei test teorici. Rileva automaticamente il volto del candidato, la posizione della testa e l'apertura della bocca con soglie di sensibilità estrema.
+Software di monitoraggio in tempo reale che utilizza una basilare intelligenza artificiale per simulare il software usato nei test teorici. Rileva automaticamente il volto del candidato, la posizione della testa e l'apertura della bocca con soglie di sensibilità moderate (tranne per bocca che é bassa per il momento).
 
 ---
 
