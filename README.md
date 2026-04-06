@@ -6,6 +6,8 @@ ATTENZIONE: Questo software è un FAC-SIMILE a scopo dimostrativo e didattico. S
 
 L'interfaccia grafica e le soglie di errore sono ricostruzioni a scopo di test. Lo sviluppatore non si assume alcuna responsabilità per l'uso improprio di questo codice in contesti di esame ufficiali.
 
+---
+
 **Simil Sistema Anti-Plagio usato per Esami Patente**
 
 Software di monitoraggio in tempo reale che utilizza una basilare intelligenza artificiale per simulare il software usato nei test teorici. Rileva automaticamente il volto del candidato, la posizione della testa e l'apertura della bocca con soglie di sensibilità moderate (tranne per bocca che é bassa per il momento).
