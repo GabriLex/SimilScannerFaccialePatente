@@ -42,9 +42,7 @@ python antiplagio.py
 ```
 
 ### Versione Portable EXE (distribuzione)
-1. Copia `SistemaAntiplagio.exe` in qualsiasi cartella
-2. Affianca il file `icon.ico` nella stessa cartella
-3. Avvia `SistemaAntiplagio.exe` — nessuna installazione Python richiesta
+- Avvia `SistemaAntiplagio.exe` — nessuna installazione Python richiesta
 
 > **Prima esecuzione:** se i modelli AI non sono inclusi nell'EXE, verranno scaricati automaticamente da internet (~200 MB).
 
