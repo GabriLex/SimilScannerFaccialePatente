@@ -3,3 +3,4 @@ pywin32
 numpy
 insightface
 onnxruntime
+pyinstaller
